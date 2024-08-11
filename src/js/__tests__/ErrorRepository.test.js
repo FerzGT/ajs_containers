@@ -1,4 +1,4 @@
-import ErrorRepository from '../ErrorRepository';
+import ErrorRepository from '../ErrorRepository.js';
 
 test('получаем текст ошибки по коду', () => {
   const error = new ErrorRepository();

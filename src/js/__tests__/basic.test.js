@@ -1,4 +1,4 @@
-import Team from '../add';
+import Team from '../add.js';
 
 const zombi = { name: 'Zombie', className: 'zombi' };
 const devil = { name: 'Daemon', className: 'devil' };
